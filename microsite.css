@@ -1,0 +1,9 @@
+.conteneur {
+        text-align: center;
+}
+.bloc /*contenu*/ {
+		margin:0 auto;
+        width: 827px;
+         height: 2756px;
+        text-align: left;
+}

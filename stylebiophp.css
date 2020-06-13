@@ -1,0 +1,167 @@
+/* CSS Document */
+*{ 	margin:0px;
+	padding:0px;
+}
+
+body {
+	margin: 0px;
+	font-family: arial;
+	font-size:12px;
+	color:#FFFFFF;
+	background-color: #2c1100;
+	background-image: url("images/motif_tapisserie.jpg");
+	background-position:top;
+	background-repeat:repeat-x;
+	}
+div#conteneur {	
+	text-align:left;
+	width:100%;
+		margin:0 auto;
+	background-position:top center;
+	background-image: url("images/head.jpg");
+	background-repeat:no-repeat;
+}
+
+ul#menu li{	
+display:inline;}
+#flags{height: 15px;
+left: 245px;
+margin:0 auto;
+position:relative;
+top: 238px;
+width:50px;
+z-index:998;}
+
+ul#menu{	
+	width:800px;
+	margin:0 auto;
+	font-family: arial;	
+	font-size : 11px;
+	vertical-align:top;
+	position:relative;
+	top:-295px;
+}
+
+h4{
+font-size : 10px;
+float:left;
+margin-top:-14px;
+padding-left:4px;}
+
+
+div#header{
+	height: 751px;
+	text-align:right;
+	color:#8e95db;
+	width:100%;
+	background-position:top center;
+}
+
+a{  text-decoration:none;
+	color:white;
+}
+
+li{	
+	text-align:left;
+	height: 30px;
+	width:auto;
+	float:left;
+	position: relative;
+	margin-left:15px;
+}
+
+p{
+color:#ffffff;
+font-family: arial;	
+font-size : 13px;
+}
+
+div#contenu{
+width:876px;
+margin:0 auto;}
+
+.contenu{
+background-image: url("images/motif_haut.jpg");
+background-position:top;
+background-repeat:no-repeat;
+background-color: #3e2f12;
+}
+h2{
+margin-top:0px;
+color:#fad5a0;
+font-family: georgia;	
+font-size : 24px;
+font-weight:bold;
+padding-left: 70px;
+margin-right:20px;
+letter-spacing:-1px;
+position:relative;
+}
+h3{
+margin-top:20px;
+color:#fad5a0;
+font-family: georgia;	
+font-size : 20px;
+font-weight:bold;
+padding-left: 50px;
+margin-right:20px;
+letter-spacing:-1px;
+position:relative;
+}
+h4{
+color:#ffffff;
+font-family: georgia;	
+font-size : 16px;
+font-weight:normal;
+padding-left: 20px;
+margin-right:20px;
+letter-spacing:0px;
+padding-top:25px;
+float:left;
+position:relative;
+}
+
+
+
+hr { visibility: hidden;}
+
+#titlepage{
+    height: 29px;
+    left: -323px;
+	position: relative;
+	margin:0 auto;
+    top: -29px;
+    width: 229px;
+    z-index: 998;
+}
+div#article1{
+	margin-top:-20px;
+	width:250px;
+	height:auto;
+	margin-right:30px;
+	}
+#marge{
+margin-left:40px;
+margin-right:55px;}
+#btnnews1{
+padding-top:50px;
+margin:50 auto;
+padding-left:245px;
+}
+
+div#footer{
+width:876px;
+margin:0 auto;
+}
+
+.contenu1{
+background-color: #3e2f12;
+}
+
+h5{
+font-family:georgia;
+font-size: 9px;
+font-weight:lighter;
+color:#FFFFFF;
+text-align:center;
+letter-spacing:0px;}

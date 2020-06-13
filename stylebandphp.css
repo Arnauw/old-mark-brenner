@@ -1,0 +1,291 @@
+/* CSS Document */
+*{ 	margin:0px;
+	padding:0px;
+}
+
+body {	
+	margin:0px;
+	padding:0px;
+	font-family: georgia;	
+	background-color: #2c1100;
+	background-image: url("images/motif_tapisserie.jpg");
+	background-position:top;
+	background-repeat:repeat-x;
+	}
+	
+div#conteneur {	
+	text-align:left;
+	width:100%;
+	margin:0 auto;
+	background-position:top center;
+	background-image: url("images/head.jpg");
+	background-repeat:no-repeat;
+}
+#flags{height: 15px;
+left: 245px;
+margin:0 auto;
+position:relative;
+top: 238px;
+width:50px;
+z-index:998;}
+
+ul#menu li{	
+display:inline;
+}
+
+ul#menu{	
+	width:800px;
+	margin:0 auto;
+	font-family: arial;	
+	font-size : 11px;
+	vertical-align:top;
+	position:relative;
+	top:-295px;
+}
+
+h4{font-size : 10px;
+float:left;
+margin-top:-14px;
+padding-left:4px;}
+
+a{  text-decoration:none;
+	color:white;
+}
+
+li{	
+	text-align:left;
+	height: 30px;
+	width:auto;
+	float:left;
+	position: relative;
+	margin-left:15px;
+}
+
+div#contenu{
+width:876px;
+margin:0 auto;}
+
+.contenu{
+background-image: url("images/motif_haut.jpg");
+background-position:top;
+background-repeat:no-repeat;
+background-color: #3e2f12;
+}
+.gauche{width:1px;}
+
+h2{
+margin-top:30px;
+color:#fad5a0;
+font-family: georgia;	
+font-size : 24px;
+font-weight:bold;
+padding-left: 250px;
+margin-right:20px;
+letter-spacing:-1px;
+position:relative;
+}
+#marge{
+margin-left:40px;
+margin-right:50px;}
+
+h3{
+color:#ffffff;
+margin-top:-10px;
+font-family: georgia;	
+font-size : 12px;
+font-weight:inherit;
+padding-left: 250px;
+margin-right:20px;
+letter-spacing:-1px;
+}
+
+p{
+color:#ffffff;
+font-family: arial;	
+font-size : 12px;
+text-align:left;
+margin-top:20px;
+margin-left:200px;
+}
+
+#formulaire{
+color:#ffffff;
+font-family: arial;	
+font-size : 12px;
+padding-left: 70px;
+}
+
+#coms{
+	margin-top:10px;
+	width:485px;
+	float:left;
+}
+
+.txtcontenu{width:564px;
+float:right;}
+
+#marge{
+margin-left:40px;
+margin-right:50px;}
+
+.clair{
+color:#ffffff;
+font-family: arial;	
+text-align:left;
+padding:2px;
+font-size:12px;
+width:876px;
+height:auto;
+display:block;
+}
+
+#titlepage{
+    height: 29px;
+    left: -323px;
+	position: relative;
+	margin:0 auto;
+    top: -29px;
+    width: 229px;
+    z-index: 998;
+}
+
+hr{visibility:hidden;}
+div#article1{
+float:left;
+	width:183px;
+	height:163px;
+	margin-top:-50px;
+	}
+
+	
+.plusCom{
+width:336px;
+height:27px;
+background:url(img_interf/pluscom.png) no-repeat;
+float:right;
+padding-left:5px;
+color:#ffffff;
+font-family: arial;	
+font-size : 12px;
+text-align:left;
+}
+
+.plusCom a:hover{
+color:#990000;
+text-decoration:none;
+cursor:pointer;
+}
+
+.reponse{
+width:475px;
+padding:3px 3px 0px 3px; 
+height:auto;
+margin-top:0px;
+font-size:11px;
+}
+
+.repIndiv{
+width:auto;
+height:auto;
+border:1px solid #3d3939;
+margin-bottom:5px;
+padding:8px;
+}
+
+#page .bubulle img { 
+margin:0; 
+padding:0;
+}
+
+.bubulle{
+float:left;
+display:block;
+height:16px;
+width:16px;
+padding:0;
+margin:0 5px 0 0;
+}
+
+.pseudo{
+float:left;
+display:block;
+height:16px;
+font-size:12px;
+}
+
+.date{
+font-size:11px;
+float:right;
+display:block;
+height:15px;
+}
+
+.titre{
+position:relative;
+width:450px;
+display:block;
+height:auto;
+font-size:16px;
+font-weight:bold;
+color:#990000;
+}
+
+.com{
+padding-top:7px;
+margin-bottom:5px;
+}
+
+/*//////////////////////FIN BLOG////////////////////////*/
+
+.commentaire{
+background-color:#514C4C;
+color:#EFE6DD;
+//font-size:12px;
+}
+
+.important{color:red;}
+.gras{font-weight:bold;}
+.italique{font-style:italic}
+.souligne{text-decoration:underline;}
+.comPlus{
+float:left;
+background:url(img_interf/plus.png) no-repeat;
+width:75px;
+height:16px;
+margin-right:10px;
+}
+
+.addthis_button{
+float:left;
+margin-right:10px;
+margin-top:5px;
+}
+
+.voir{
+height:16px;
+background:url(img_interf/voir.png) no-repeat;
+float:left;
+width:60px;
+}
+
+#btnnews1{
+padding-top:50px;
+margin:50 auto;
+padding-left:245px;
+}
+
+div#footer{
+width:876px;
+margin:0 auto;
+}
+
+.contenu1{
+background-color: #3e2f12;
+}
+
+h5{
+font-family:georgia;
+font-size: 9px;
+font-weight:lighter;
+color:#FFFFFF;
+text-align:center;}
